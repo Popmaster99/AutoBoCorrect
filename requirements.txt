@@ -229,6 +229,7 @@ pyttsx3==2.98
 pytz==2025.2
 pyunormalize==16.0.0
 pywin32==310
+sys_platform =='win32'
 PyYAML==6.0.3
 pyzmq==26.4.0
 redis==7.4.0
