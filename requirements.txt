@@ -141,7 +141,7 @@ langgraph-prebuilt==1.0.8
 langgraph-sdk==0.3.12
 langsmith==0.7.22
 libclang==18.1.1
-litellm==1.83.12
+litellm
 litellm-enterprise==0.1.38
 litellm-proxy-extras==0.4.68
 llvmlite==0.46.0
